@@ -1,0 +1,16 @@
+{
+  "name": "day01",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "day01": "nodemon day01/index.js",
+    "day02": "nodemon day02/index.js",
+    "day03": "nodemon day03/index.js",
+    "day04": "nodemon day04/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
