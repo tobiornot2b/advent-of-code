@@ -6,7 +6,9 @@
     "day01": "nodemon day01/index.js",
     "day02": "nodemon day02/index.js",
     "day03": "nodemon day03/index.js",
-    "day04": "nodemon day04/index.js"
+    "day04": "nodemon day04/index.js",
+    "day05": "nodemon day05/index.js",
+    "day06": "nodemon day06/index.js"
   },
   "author": "",
   "license": "ISC",
