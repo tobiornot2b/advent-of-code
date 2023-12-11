@@ -32,3 +32,17 @@ executable day01
     build-depends:    base ^>=4.15.1.0
     hs-source-dirs:   days
     default-language: Haskell2010
+
+executable day02
+    main-is:          day02.hs
+    build-depends:    base ^>=4.15.1.0, parsec, text, 
+                      containers >= 0.6.0.1
+    hs-source-dirs:   days
+    default-language: Haskell2010
+
+executable day03
+    main-is:          day03.hs
+    build-depends:    base ^>=4.15.1.0, parsec, text, 
+                      containers >= 0.6.0.1
+    hs-source-dirs:   days
+    default-language: Haskell2010
